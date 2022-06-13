@@ -1,18 +1,6 @@
-.first{
-    background-color: #558DCD;
-    color: #FFFFFF;
-    padding: 10px 70px;
-    text-align: center;
-}
+
 body{
-    background-color: #AFEEEE;
+    background-image: url(Background.png);
+    background-size: cover;
     font-family: 'Noto Sans TC', sans-serif;
-}
-h4{color: #FF7F50;
-     padding: 15px;
-     font-size: 20px;
-    }
-ul{
-    list-style-type: none; 
-    padding: 0px
 }
